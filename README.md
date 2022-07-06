@@ -3,6 +3,8 @@ Created a program where I can run coding tasks that I have done against a set of
 
 Currently the program only has a few vector tasks to showcase it working.
 
+The description of the tasks that the code is testing can be found towards the bottom each of the task files (LongestPeakTask.cpp, MergeOverlappingIntervalsTask.cpp, TwoNumberSumTask.cpp).
+
 Future Improvement Ideas
 - The derived classes from the base class still have a lot of repeating code, particularly around the OutputResults() & RunTests() functions
 - Making the FOR loop in the RunTests() function asynchronous for all the derived classes
