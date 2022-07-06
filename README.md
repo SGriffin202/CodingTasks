@@ -1,5 +1,5 @@
 # CodingTasks
-Created a program to read in a test file for a programming task and evaluate each test case against my solution to the task.
+Created a program to read in a test file for each programming task and evaluate the test cases against my solution to the task.
 
 Currently the program only has a few vector tasks to showcase it working.
 
