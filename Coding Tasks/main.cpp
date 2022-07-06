@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
     bool allTestsPassed = true;
-    cout << "Coding Topics" << endl;
+    cout << "Coding Tasks" << endl;
 
     TwoNumberSumTask TwoNumSum("Two Number Sum", "Tests/TwoNumberSumTest.txt");
     allTestsPassed = (allTestsPassed && TwoNumSum.GetAllTestsPassed());
