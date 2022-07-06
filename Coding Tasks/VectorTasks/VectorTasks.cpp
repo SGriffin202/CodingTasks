@@ -1,3 +1,13 @@
+/*
+
+    This is a base class for Vector Tasks to derive from.
+
+    Contains a common functions that other derived classes might need.
+
+    Also contains virtual functions that need to be defined in the the derived classes.
+
+*/
+
 #include "VectorTasks.h"
 
 using namespace std;
